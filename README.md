@@ -1,4 +1,3 @@
-# MultiChat-Application
+# Basic Calculator
 
-Computer Networks Mini Project
-|CONCEPT - Socket Programming 
+Using HTML,CSS And Javascript 
